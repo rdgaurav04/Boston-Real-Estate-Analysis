@@ -4,7 +4,7 @@ This project presents an interactive **real estate market analysis** for Boston 
 
 ## Files Included
 
-- `Extended_project_1.twbx` – Tableau Packaged Workbook containing: https://public.tableau.com/app/profile/gaurav.kumar4299/viz/Extended_project_1/DistributionofSalePricesinBostonsCondoMarket?publish=yes
+- `Extended_project_1.twbx` – Tableau Packaged Workbook containing:
   - 5 Analytical Dashboards
   - 1 Summary & Recommendations Dashboard
   - 1 Executive Summary (text-only)
@@ -49,9 +49,8 @@ This project presents an interactive **real estate market analysis** for Boston 
 2. Navigate through the Storyboard to explore the analysis step by step.
 3. Use filters and parameters to simulate property recommendations.
 
+- `[Tableau Public Link]` - **https://public.tableau.com/app/profile/gaurav.kumar4299/viz/Extended_project_1/DistributionofSalePricesinBostonsCondoMarket?publish=yes**
 ---
-
-> **Built With:** Tableau | Data Source: Boston Condo Dataset (XLSX)
->  
-> **Author:** [FGaurav Kumar] • [LinkedIn Profile](https://www.linkedin.com/in/gaurav-kumar-rd/)
+  
+> **Author:** [Gaurav Kumar] • [LinkedIn Profile](https://www.linkedin.com/in/gaurav-kumar-rd/)
 
