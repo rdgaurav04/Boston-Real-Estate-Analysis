@@ -4,7 +4,7 @@ This project presents an interactive **real estate market analysis** for Boston 
 
 ## Files Included
 
-- `Extended_project_1.twbx` – Tableau Packaged Workbook containing:
+- `Extended_project_1.twbx` – Tableau Packaged Workbook containing: https://public.tableau.com/app/profile/gaurav.kumar4299/viz/Extended_project_1/DistributionofSalePricesinBostonsCondoMarket?publish=yes
   - 5 Analytical Dashboards
   - 1 Summary & Recommendations Dashboard
   - 1 Executive Summary (text-only)
